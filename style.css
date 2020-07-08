@@ -53,3 +53,117 @@
 p{
     color: gray;
 }
+.center h1{
+    text-align: center;
+    font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 54px;
+color: #413960;
+margin-bottom: 60px;
+
+}
+.title{
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 36px;
+        color:  #413960;
+}
+.cbutton{
+    background-color: hsl(153, 69%, 42%);
+    border-radius: 33px;
+    border: none;
+    color: #fff;
+    padding: 12px 36px;
+    cursor: pointer;
+}
+.img-fluidd {
+    width: 22px;
+    height: 22px;
+}
+.inleft .icon p {
+    margin: 0;
+}
+.inleft p {
+    margin-bottom: 0;
+    padding-left: 10px;
+}
+.inleft {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.card-icon {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+    width: 75%;
+}
+.newtm h1{
+         text-align: center;
+         font-family: Poppins;
+         font-style: normal;
+         font-weight: bold;
+         font-size: 36px;
+         color: #000000;
+
+}
+
+.retake {
+    display: flex;
+    align-items: center;
+    width: 70%;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+.ironman .img-fluid {
+    max-width: 70%;
+    height: auto;
+}
+
+
+
+
+
+
+
+footer p{
+    color: #fff;
+    padding-left: 10px;
+    padding-top: 45px;
+}
+footer li{
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+}
+ footer ul li a {
+    color: #fff;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+footer ul li{
+    padding: 0;
+    list-style: none;
+    font-size: 25px;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 30px;
+ }
+ .last{
+    background: #282531;
+ }
+ 
+ 
