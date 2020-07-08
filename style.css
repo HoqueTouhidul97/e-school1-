@@ -1,0 +1,55 @@
+.pop{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin-bottom: 100px;
+}
+.green-bg{
+    background-color:  #F0FFF0;;
+  }
+  .button-new{
+      background-color: hsl(153, 69%, 42%);
+      border-radius: 33px;
+      border: none;
+      color: #fff;
+      padding: 12px 28px;
+  }
+  .button-new-1{
+      background-color: hsl(153, 69%, 42%);
+      border-radius: 33px;
+      border: none;
+      color: #fff;
+      padding: 12px 36px;
+      cursor: pointer;
+  }
+  .new-entry{
+      color:  #21B573 ;
+  }
+  .distance{
+    padding: 60px 0;
+}
+.ranger img.card-img-top {
+    max-width: 75px;
+    margin: 0 auto;
+    max-height: 122px;
+}
+.ranger .card-body {
+    text-align: center;
+    padding: 30px;
+}
+.ranger .card img {
+    padding-top: 40px;
+}
+.ranger .card{
+    border:none;
+    transition: .1s ease;
+    background: #F8FFFB;
+}
+.ranger .card:hover{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+}
+p{
+    color: gray;
+}
